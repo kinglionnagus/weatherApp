@@ -1,3 +1,3 @@
-#weatherApp
+# weatherApp
 
 First Project
